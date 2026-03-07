@@ -23,19 +23,6 @@ Sou professor de informática e estudante de **Técnico em Informática**, apaix
 
 ---
 
-## 🐍 GitHub Snake Game
-<img src="https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%">
-
-> A cobra percorre os meus commits no GitHub! Cada quadrado representa contribuições diárias.
-
----
-
-## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contato
 - Email: lucascursoinfo5@gmail.com  
 - LinkedIn: seu-linkedin  
