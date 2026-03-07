@@ -1,16 +1,47 @@
-## Hi there 👋
+# Olá! Eu sou o Lucas
 
-<!--
-**lucasalexandre-15/lucasalexandre-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mim
+Sou professor de informática e estudante de **Técnico em Informática**, apaixonado por tecnologia, programação e aprendizado contínuo. Gosto de desenvolver soluções digitais e compartilhar conhecimento enquanto evoluo na área de TI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 O que estou fazendo atualmente
+- 🔭 Trabalhando como **professor de informática**, ajudando alunos a desenvolver habilidades digitais.  
+- 🌱 Estudando **Técnico em Informática**, aprofundando conhecimentos em tecnologia e desenvolvimento de software.  
+- 👯 Interessado em **colaborar em projetos de programação e tecnologia**.  
+- 🤔 Buscando **aprimorar minhas habilidades em desenvolvimento de software e projetos de TI**.
+
+---
+
+## 🧰 Tecnologias & Ferramentas
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🐍 GitHub Snake Game
+<img src="https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%">
+
+> A cobra percorre os meus commits no GitHub! Cada quadrado representa contribuições diárias.
+
+---
+
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contato
+- Email: lucascursoinfo5@gmail.com  
+- LinkedIn: seu-linkedin  
+- GitHub: https://github.com/lucasalexandre-15
+
+---
+
+## ⚡ Curiosidade
+Ensino informática enquanto continuo minha formação em tecnologia, aprendendo e ensinando ao mesmo tempo.
