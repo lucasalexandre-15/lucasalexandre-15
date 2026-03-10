@@ -25,7 +25,7 @@ Sou professor de informática e estudante de **Técnico em Informática**, apaix
 
 ## 📫 Contato
 - Email: lucascursoinfo5@gmail.com  
-- LinkedIn: seu-linkedin  
+- LinkedIn:
 - GitHub: https://github.com/lucasalexandre-15
 
 ---
